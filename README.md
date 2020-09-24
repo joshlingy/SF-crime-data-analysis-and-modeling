@@ -22,3 +22,9 @@ I use both dataframe and spark SQL to solve problems. The report analysis the SF
 
 * There are many crime activities on Sundays in the downtown area, I suggest visitors should avoid going there.
  
+# Feature Engineering with Spark
+
+To scale the feature engineering to a large dataset, the data was partitioned and automated feature engineering was run in parallel
+using Apache Spark with PySpark. 
+
+![](graphs/spark-logo-trademark.png)
