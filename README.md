@@ -4,6 +4,7 @@
 
 
 <p align="center">
+  <img src="https://github.com/joshlingy/SF-crime-data-analysis-and-modeling/blob/master/graphs/8-Clsuters.png">
   <img src="https://github.com/joshlingy/SF-crime-data-analysis-and-modeling/blob/master/graphs/12-Clsuters.png">
 </p>
 
