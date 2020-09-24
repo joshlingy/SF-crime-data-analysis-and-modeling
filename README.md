@@ -1,7 +1,7 @@
 ## SF-crime-data-analysis-and-modeling
 
 
-https://github.com/joshlingy/SF-crime-data-analysis-and-modeling/graphs/the spatial distribution of 12 Clsuters.png
+https://github.com/joshlingy/SF-crime-data-analysis-and-modeling/graphs/12-Clsuters.png
 
 
 
