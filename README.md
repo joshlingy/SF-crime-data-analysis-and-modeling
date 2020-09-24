@@ -4,7 +4,12 @@
 
 
  1. SF crime(2003 to 2018) dataset with a size of over 500 million rows by descriptively exploring trends and information contained in the SF.
+ 
  2.Insights are drawn so that the analysis can help the SF government and police department develop tactics and adjust problematic measures to better control criminal activities.
+ 
  3.Larceny/Theft is the most criminal activities happened in 2003 - 2018.
+ 
  4.The district 'Southern' , 'Northern', 'Mission' are the three most dangerous districts.
+ 
  5.There are many crime activities on Sundays in the downtown area, I suggest visitors should avoid going there.
+ 
