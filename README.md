@@ -1,4 +1,4 @@
-## SF-crime-data-analysis-and-modeling
+## SF crime data analysis and modeling
 
 <a href="https://github.com/joshlingy/SF-crime-data-analysis-and-modeling/blob/master/SF crime data analysis and modeling.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!</a>
 
